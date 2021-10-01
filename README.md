@@ -1,2 +1,3 @@
 # cse210-tc03
-CSE210 Team 03 Repo
+My name is Caio Andrade and I am an IT Manager at a virtual reality company in Los Angeles.
+I love playing video games and traveling. This is a test
